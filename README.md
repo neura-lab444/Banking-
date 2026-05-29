@@ -1,2 +1,1 @@
-# Banking-
-Banking system 
+# Banking Project
